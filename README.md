@@ -39,7 +39,7 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/little-lemon.git
+   git clone https://github.com/awesome04/little-lemon.git
    ```
 
 2. Open the `index.html` file in your web browser.
@@ -47,13 +47,11 @@ To run the project locally, follow these steps:
 ## Folder Structure
 
 ```
-little-lemon-restaurant/
+little-lemon/
 │
 ├── assets/            # Images and other static assets
 ├── css/               # CSS stylesheets
 ├── index.html         # Home page HTML file
-├── menu.html          # Menu page HTML file
-├── book.html          # Booking page HTML file
 └── README.md          # Project README file
 ```
 
